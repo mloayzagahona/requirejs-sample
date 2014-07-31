@@ -4,9 +4,9 @@
   ],
   "plugins": {
     "requirejs": {
-      "baseURL": "js/lib",
+      "baseURL": "js/app",
       "paths": {
-        "app": "../app"
+        "lib": "../lib"
       }
     }
   }
